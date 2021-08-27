@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Tayfun FIRTINA
-#### Computer Engineer
 ![Design & Development](https://media0.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47jysa1pujici0nrw1y2r52bozcz2daxuxevwgd0n9&rid=giphy.gif&ct=g)
 
 EN: 
@@ -10,7 +9,14 @@ TR:
 İçerik tasarımı ve web geliştirme konusunda kendimi geliştiriyorum. Html ve javascript gibi dilleri, Bootstrap gibi frameworkleri ve jQuery gibi kütüphaneleri öğrenmekten gerçekten keyif alıyorum.
 Ayrıca web geliştirme araçlarından da hoşlanıyorum.
 
-Skills: HTML/CSS/BOOTSRAP/JAVASCRIPT/JQUERY/JAVA
+## Skills and Experience
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>,
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>,
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>,
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>,
+<img src="https://img.icons8.com/ios/50/000000/jquery.png"/>,
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
 - 🌱 I’m currently learning web development. 
 
