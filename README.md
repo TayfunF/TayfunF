@@ -6,8 +6,8 @@ I'm from Turkey, and I improve my self about content on desing and web developme
 I also enjoy web development tools.
 
 TR:
-İçerik tasarımı ve web geliştirme konusunda kendimi geliştiriyorum. Html ve javascript gibi dilleri, Bootstrap gibi frameworkleri ve jQuery gibi kütüphaneleri öğrenmekten gerçekten keyif alıyorum.
-Ayrıca web geliştirme araçlarından da hoşlanıyorum.
+Web programlama ve tasarımı konusunda kendimi geliştiriyorum. Html, Css ve Javascript gibi dilleri, Bootstrap gibi frameworkleri ve jQuery gibi kütüphaneleri öğrenmekten keyif alıyorum. Java, Arduino ve Unity  ile üniversitede projeler geliştirdim. . Gün geçtikçe kendimi geliştirmeye, araştırmaya ve öğrenmeye devam ediyorum.
+
 
 ## Skills and Experience
 
