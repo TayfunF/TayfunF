@@ -7,7 +7,8 @@ I also enjoy web development tools.
 
 TR:
 Web programlama ve tasarımı konusunda kendimi geliştiriyorum. Html, Css ve Javascript gibi dilleri, Bootstrap gibi frameworkleri ve jQuery gibi kütüphaneleri öğrenmekten keyif alıyorum. Java, Arduino ve Unity  ile üniversitede projeler geliştirdim. . Gün geçtikçe kendimi geliştirmeye, araştırmaya ve öğrenmeye devam ediyorum.
-
+    Üniversite sürecimi tamamladım ve farklı insanlarla çalışmayı , bir takımda yer almayı ve birlikte bir ürünün nasıl üretildiğini öğrenmek istiyorum.
+    Detaylara önem veren bir insanım. Prensipli çalışırım. Başladığım bir işi tamamlamadan bırakmam. Güven benim için en önemli unsurdur. Ekibinizde yer almak isterim
 
 ## Skills and Experience
 
