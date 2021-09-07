@@ -22,8 +22,3 @@ Web programlama ve tasarımı konusunda kendimi geliştiriyorum. Html, Css ve Ja
 <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-sharp-logo.png"/>
 
 - 🌱 I’m currently learning web development. 
-
- 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TayfunF&show_icons=true)  
-
