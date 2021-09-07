@@ -2,7 +2,7 @@
 ![Design & Development](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 EN: 
-I'm from Turkey, and I improve my self about content on desing and web development. I really enjoy learning languages like html and java , framework like Bootstrap and library like jQuery. 
+I'm from Turkey, and I improve myself about content on desing and web development. I really enjoy learning languages like html and java , framework like Bootstrap and library like jQuery. 
 I also enjoy web development tools.
 
 TR:
