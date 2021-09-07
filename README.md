@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tayfun FIRTINA
-![Design & Development](https://media0.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47jysa1pujici0nrw1y2r52bozcz2daxuxevwgd0n9&rid=giphy.gif&ct=g)
+![Design & Development](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 EN: 
 I'm from Turkey, and I improve my self about content on desing and web development. I really enjoy learning languages like html and java , framework like Bootstrap and library like jQuery. 
