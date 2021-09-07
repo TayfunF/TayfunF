@@ -23,9 +23,7 @@ Web programlama ve tasarımı konusunda kendimi geliştiriyorum. Html, Css ve Ja
 
 - 🌱 I’m currently learning web development. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayfunF)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tayfun-firtina/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tayfunfirtina_) 
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TayfunF&show_icons=true)  
 
