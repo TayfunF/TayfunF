@@ -19,6 +19,7 @@ Web programlama ve tasarımı konusunda kendimi geliştiriyorum. Html, Css ve Ja
 <img src="https://img.icons8.com/ios/50/4a90e2/jquery.png"/>,
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>,
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>,
-<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-sharp-logo.png"/> ,
+<img src="https://img.icons8.com/material-rounded/56/4a90e2/asp.png"/>
 
 - 🌱 I’m currently learning web development. 
