@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tayfun FIRTINA
+### Hi there 🙋‍♂️, I'm Tayfun FIRTINA
 ![Design & Development](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 EN: 
