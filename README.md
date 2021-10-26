@@ -2,10 +2,10 @@
 ![Design & Development](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 EN: 
-I am a person who pays attention to details. I work with principles. I don't leave a job and started until it is completed. Trust is the most important factor for me. 
+I am a person who pays attention to details. I work with principles. I don't leave a job until it is completed. Trust is the most important factor for me. 
 
 TR:
-Detaylara dikkat eden biriyim. Prensipli çalışırım. Başladığım bir işi bitirmeden bırakmam. Güven benim için en önemli unsurdur. 
+Detaylara dikkat eden biriyim. Prensipli çalışırım. Bir işi bitirmeden bırakmam. Güven benim için en önemli unsurdur. 
 
 ## Skills and Experience
 
