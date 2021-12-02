@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayfunf&label=Profile%20views&color=0e75b6&style=flat" alt="tayfunf" /> </p>
 
-
 ```
 📋 🇺🇸 :
 ✔️ I am a person who pays attention to details.
