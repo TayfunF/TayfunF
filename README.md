@@ -4,21 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayfunf&label=Profile%20views&color=0e75b6&style=flat" alt="tayfunf" /> </p>
 
-```
-📋 🇺🇸 :
-✔️ I am a person who pays attention to details.
-✔️ I work with principles. 
-✔️ I do not leave a job until its completed.
-✔️ Trust is the most important factor for me.
-```
-```
-📋 🇹🇷 : 
-✔️ Detaylara dikkat eden biriyim. 
-✔️ Prensipli çalışırım. 
-✔️ Bir işi bitirmeden bırakmam. 
-✔️ Güven benim için en önemli unsurdur.
-```
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayfunf" alt="tayfunf" /></a> </p>
 
